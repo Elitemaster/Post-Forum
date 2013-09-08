@@ -1,4 +1,4 @@
 Post-Forum
 ==========
 
-A new forum software!
+Free fast and powerful forum solution writed in PHP. 
